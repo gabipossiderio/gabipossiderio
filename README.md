@@ -1,6 +1,6 @@
  ##  ABOUT ME ❤
 
-studying to become a good professional to work with technology and web development :)
+Studying to become a good professional to work with technology and web development :)
 <br>
 
 ##  MY STACK ❤
