@@ -6,24 +6,19 @@ studying to become a good professional to work with technology and web developme
 ##  MY STACK ❤
 
 <div>
-<img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=be5d98" />
-</div>
-<br>
+<img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=be5d98" /></div>
 
 ##  WHERE TO FIND ME ❤
-
 <div>
 <a href="https://www.linkedin.com/in/gabriella-possiderio/"><img alt="linked-in" src="https://img.shields.io/badge/linkedin-191622?&style=for-the-badge&logo=linkedin&logoColor=be5d98" /></a>
 <a href="https://stackoverflow.com/story/gabi_possiderio"><img alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-191622?logo=stack-overflow&logoColor=be5d98&style=for-the-badge" /></a>
 </div>
-<br>
 
 ##  STATS ❤
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=gabipossiderio&count_private=true&show_icons=true&theme=omni&hide_border=true" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabipossiderio&count_private=true&show_icons=true&theme=omni&hide_border=true&layout=compact" />
 </div>
-<br>
 
 ### LAPTOP SPECS ❤
 <div>
