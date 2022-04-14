@@ -28,4 +28,6 @@ Studying to become a good professional to work with technology and web developme
 </br>
 <img src="https://img.shields.io/badge/Windows_10-191622?style=for-the-badge&logo=windows&logoColor=be5d98" />
 </br>
+<img src="https://img.shields.io/badge/Pop!OS-191622?style=for-the-badge&logo=popos&logoColor=be5d98" />
+</br>
 </div>
