@@ -6,12 +6,14 @@ Studying to become a good professional to work with technology and web developme
 ##  MY STACK ❤
 
 <div>
-<img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=be5d98" /></div>
+<img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=be5d98" />
+<img alt="html" src="https://img.shields.io/badge/Html-191622?style=for-the-badge&logo=html5&logoColor=be5d98" />
+<img alt="css" src="https://img.shields.io/badge/css-191622?style=for-the-badge&logo=css3&logoColor=be5d98" />
+</div>
 
 ##  WHERE TO FIND ME ❤
 <div>
 <a href="https://www.linkedin.com/in/gabriella-possiderio/"><img alt="linked-in" src="https://img.shields.io/badge/linkedin-191622?&style=for-the-badge&logo=linkedin&logoColor=be5d98" /></a>
-<a href="https://stackoverflow.com/story/gabi_possiderio"><img alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-191622?logo=stack-overflow&logoColor=be5d98&style=for-the-badge" /></a>
 </div>
 
 ##  STATS ❤
@@ -26,7 +28,7 @@ Studying to become a good professional to work with technology and web developme
 </br>
 <img src="https://img.shields.io/badge/Lenovo_IdeaPad_i3-191622?style=for-the-badge&logo=lenovo&logoColor=be5d98" />
 </br>
-<img src="https://img.shields.io/badge/Windows_10-191622?style=for-the-badge&logo=windows&logoColor=be5d98" />
+<img src="https://img.shields.io/badge/Windows_11-191622?style=for-the-badge&logo=windows&logoColor=be5d98" />
 </br>
 <img src="https://img.shields.io/badge/Pop!OS-191622?style=for-the-badge&logo=popos&logoColor=be5d98" />
 </br>
