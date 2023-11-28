@@ -6,9 +6,13 @@ Studying to become a good professional to work with technology and web developme
 ##  MY STACK ❤
 
 <div>
-<img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=be5d98" />
 <img alt="html" src="https://img.shields.io/badge/Html-191622?style=for-the-badge&logo=html5&logoColor=be5d98" />
 <img alt="css" src="https://img.shields.io/badge/css-191622?style=for-the-badge&logo=css3&logoColor=be5d98" />
+<img alt="js" src="https://img.shields.io/badge/javascript-191622?style=for-the-badge&logo=javascript&logoColor=be5d98" />
+<img alt="typescript" src="https://img.shields.io/badge/typescript-191622?style=for-the-badge&logo=typescript&logoColor=be5d98" />
+<img alt="react" src="https://img.shields.io/badge/react-191622?style=for-the-badge&logo=react&logoColor=be5d98" />
+<img alt="git" src="https://img.shields.io/badge/git-191622?style=for-the-badge&logo=git&logoColor=be5d98" />
+<img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=be5d98" />
 </div>
 
 ##  WHERE TO FIND ME ❤
@@ -18,8 +22,8 @@ Studying to become a good professional to work with technology and web developme
 
 ##  STATS ❤
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=gabipossiderio&count_private=true&show_icons=true&theme=omni&hide_border=true" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabipossiderio&count_private=true&show_icons=true&theme=omni&hide_border=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=gabipossiderio&count_private=true&show_icons=true&theme=neon&hide_border=true&layout=compact" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabipossiderio&count_private=true&show_icons=true&theme=neon&hide_border=true&layout=compact" />
 </div>
 
 ### LAPTOP SPECS ❤
