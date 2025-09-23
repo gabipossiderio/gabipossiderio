@@ -12,13 +12,30 @@ Let's connect and build something amazing together!
 ##  MY STACK ❤
 
 <div>
+<!-- Frontend Core -->
 <img alt="html" src="https://img.shields.io/badge/Html-191622?style=for-the-badge&logo=html5&logoColor=be5d98" />
 <img alt="css" src="https://img.shields.io/badge/css-191622?style=for-the-badge&logo=css3&logoColor=be5d98" />
-<img alt="js" src="https://img.shields.io/badge/javascript-191622?style=for-the-badge&logo=javascript&logoColor=be5d98" />
+<img alt="javascript" src="https://img.shields.io/badge/javascript-191622?style=for-the-badge&logo=javascript&logoColor=be5d98" />
 <img alt="typescript" src="https://img.shields.io/badge/typescript-191622?style=for-the-badge&logo=typescript&logoColor=be5d98" />
+
+<!-- React Ecosystem -->
 <img alt="react" src="https://img.shields.io/badge/react-191622?style=for-the-badge&logo=react&logoColor=be5d98" />
-<img alt="git" src="https://img.shields.io/badge/git-191622?style=for-the-badge&logo=git&logoColor=be5d98" />
+<img alt="nextjs" src="https://img.shields.io/badge/Next.js-191622?style=for-the-badge&logo=nextdotjs&logoColor=be5d98" />
+
+<!-- Styling -->
+<img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-191622?style=for-the-badge&logo=tailwind-css&logoColor=be5d98" />
+
+<!-- State Management & APIs -->
+<img alt="zustand" src="https://img.shields.io/badge/Zustand-191622?style=for-the-badge&logo=react&logoColor=be5d98" />
+<img alt="graphql" src="https://img.shields.io/badge/GraphQL-191622?style=for-the-badge&logo=graphql&logoColor=be5d98" />
+
+<!-- Backend -->
 <img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=be5d98" />
+
+<!-- Testing & Tools -->
+<img alt="jest" src="https://img.shields.io/badge/Jest-191622?style=for-the-badge&logo=jest&logoColor=be5d98" />
+<img alt="git" src="https://img.shields.io/badge/git-191622?style=for-the-badge&logo=git&logoColor=be5d98" />
+<img alt="eslint" src="https://img.shields.io/badge/ESLint-191622?style=for-the-badge&logo=eslint&logoColor=be5d98" />
 </div>
 
 ##  WHERE TO FIND ME ❤
