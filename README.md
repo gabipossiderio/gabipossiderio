@@ -1,6 +1,12 @@
  ##  ABOUT ME ❤
 
-Studying to become a good professional to work with technology and web development :)
+Frontend Developer passionate about creating intuitive and responsive user interfaces. Currently working with React.js, TypeScript, and Next.js to build modern web applications.
+
+🎓 Software Engineering student with a background in Education  
+💻 Focused on clean code, user experience, and continuous learning  
+🌱 Always exploring new technologies and best practices  
+
+Let's connect and build something amazing together!
 <br>
 
 ##  MY STACK ❤
