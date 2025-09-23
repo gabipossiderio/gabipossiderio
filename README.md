@@ -51,12 +51,16 @@ Let's connect and build something amazing together!
 
 ### LAPTOP SPECS ❤
 <div>
-<img src="https://img.shields.io/badge/AMD_Ryzen_5_5500G-191622?style=for-the-badge&logo=amd&logoColor=be5d98" />
+<img src="https://img.shields.io/badge/Lenovo_LOQ-191622?style=for-the-badge&logo=lenovo&logoColor=be5d98" />
 </br>
-<img src="https://img.shields.io/badge/Lenovo_IdeaPad_i3-191622?style=for-the-badge&logo=lenovo&logoColor=be5d98" />
+<img src="https://img.shields.io/badge/Intel_i7_13650HX-191622?style=for-the-badge&logo=intel&logoColor=be5d98" />
 </br>
-<img src="https://img.shields.io/badge/Windows_11-191622?style=for-the-badge&logo=windows&logoColor=be5d98" />
+<img src="https://img.shields.io/badge/NVIDIA_RTX_4050_6GB-191622?style=for-the-badge&logo=nvidia&logoColor=be5d98" />
 </br>
-<img src="https://img.shields.io/badge/Pop!OS-191622?style=for-the-badge&logo=popos&logoColor=be5d98" />
+<img src="https://img.shields.io/badge/32GB_RAM-191622?style=for-the-badge&logo=corsair&logoColor=be5d98" />
+</br>
+<img src="https://img.shields.io/badge/Windows_11-191622?style=for-the-badge&logoColor=be5d98" />
+</br>
+<img src="https://img.shields.io/badge/Ubuntu-191622?style=for-the-badge&logo=ubuntu&logoColor=be5d98" />
 </br>
 </div>
