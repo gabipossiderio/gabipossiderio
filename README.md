@@ -1,4 +1,4 @@
- ##  ABOUT ME ❤
+<h1>Hi, I'm Gabriella 👋</h1>
 
 Frontend Developer passionate about creating intuitive and responsive user interfaces. Currently working with React.js, TypeScript, and Next.js to build modern web applications.
 
@@ -7,60 +7,56 @@ Frontend Developer passionate about creating intuitive and responsive user inter
 🌱 Always exploring new technologies and best practices  
 
 Let's connect and build something amazing together!
-<br>
 
-##  MY STACK ❤
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
+</p>
 
-<div>
-<!-- Frontend Core -->
-<img alt="html" src="https://img.shields.io/badge/Html-191622?style=for-the-badge&logo=html5&logoColor=be5d98" />
-<img alt="css" src="https://img.shields.io/badge/css-191622?style=for-the-badge&logo=css3&logoColor=be5d98" />
-<img alt="javascript" src="https://img.shields.io/badge/javascript-191622?style=for-the-badge&logo=javascript&logoColor=be5d98" />
-<img alt="typescript" src="https://img.shields.io/badge/typescript-191622?style=for-the-badge&logo=typescript&logoColor=be5d98" />
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+</p>
 
-<!-- React Ecosystem -->
-<img alt="react" src="https://img.shields.io/badge/react-191622?style=for-the-badge&logo=react&logoColor=be5d98" />
-<img alt="nextjs" src="https://img.shields.io/badge/Next.js-191622?style=for-the-badge&logo=nextdotjs&logoColor=be5d98" />
+**Testing & Design Systems**
+<p>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
+</p>
 
-<!-- Styling -->
-<img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-191622?style=for-the-badge&logo=tailwind-css&logoColor=be5d98" />
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"/>
+</p>
 
-<!-- State Management & APIs -->
-<img alt="zustand" src="https://img.shields.io/badge/Zustand-191622?style=for-the-badge&logo=react&logoColor=be5d98" />
-<img alt="graphql" src="https://img.shields.io/badge/GraphQL-191622?style=for-the-badge&logo=graphql&logoColor=be5d98" />
+**Background**
+<p>
+  <img src="https://img.shields.io/badge/Software_Engineering-Estácio-555555?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pedagogy-UFRRJ-555555?style=flat-square"/>
+</p>
 
-<!-- Backend -->
-<img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=be5d98" />
+<a href="https://www.linkedin.com/in/gabriella-possiderio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<!-- Testing & Tools -->
-<img alt="jest" src="https://img.shields.io/badge/Jest-191622?style=for-the-badge&logo=jest&logoColor=be5d98" />
-<img alt="git" src="https://img.shields.io/badge/git-191622?style=for-the-badge&logo=git&logoColor=be5d98" />
-<img alt="eslint" src="https://img.shields.io/badge/ESLint-191622?style=for-the-badge&logo=eslint&logoColor=be5d98" />
-</div>
-
-##  WHERE TO FIND ME ❤
-<div>
-<a href="https://www.linkedin.com/in/gabriella-possiderio/"><img alt="linked-in" src="https://img.shields.io/badge/linkedin-191622?&style=for-the-badge&logo=linkedin&logoColor=be5d98" /></a>
-</div>
-
-##  STATS ❤
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=gabipossiderio&count_private=true&show_icons=true&theme=neon&hide_border=true&layout=compact" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabipossiderio&count_private=true&show_icons=true&theme=neon&hide_border=true&layout=compact" />
-</div>
-
-### LAPTOP SPECS ❤
-<div>
-<img src="https://img.shields.io/badge/Lenovo_LOQ-191622?style=for-the-badge&logo=lenovo&logoColor=be5d98" />
-</br>
-<img src="https://img.shields.io/badge/Intel_i7_13650HX-191622?style=for-the-badge&logo=intel&logoColor=be5d98" />
-</br>
-<img src="https://img.shields.io/badge/NVIDIA_RTX_4050_6GB-191622?style=for-the-badge&logo=nvidia&logoColor=be5d98" />
-</br>
-<img src="https://img.shields.io/badge/32GB_RAM-191622?style=for-the-badge&logo=corsair&logoColor=be5d98" />
-</br>
-<img src="https://img.shields.io/badge/Windows_11-191622?style=for-the-badge&logoColor=be5d98" />
-</br>
-<img src="https://img.shields.io/badge/Ubuntu-191622?style=for-the-badge&logo=ubuntu&logoColor=be5d98" />
-</br>
-</div>
+<!--
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabipossiderio&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabipossiderio&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top languages"/>
+</p>
+-->
